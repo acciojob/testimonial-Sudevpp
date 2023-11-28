@@ -3,13 +3,16 @@
 Background-color: #f5f5f5;	
 	width:95vw;
 	padding-inline:30px;
-	padding-block:20px;
+padding-block:30px;
+
+
 }
 .txt{
 	background:white;
 margin-top:15px;
 	padding:8px;
 	font-size:13px;
+	margin-bottom:15px;
 }
 
 .align{
